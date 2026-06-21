@@ -65,9 +65,9 @@ Inferred expertise:
 
 ### v0.2
 
-* Contributor network visualization
-* File ownership analysis
-* Repository evolution timeline
+* Commit activity timeline
+* Monthly commit aggregation
+* Repository growth visualization
 
 ### v0.3
 
