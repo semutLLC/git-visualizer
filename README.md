@@ -100,3 +100,9 @@ The project focuses on making these layers observable through data and visualiza
 Early prototype.
 
 Contributions, feedback, and experimentation are welcome.
+
+This repository is an active research project.
+
+The ideas described here are hypotheses under exploration and may evolve as implementations, experiments, and community feedback provide new evidence.
+
+Semut documents both successful and unsuccessful ideas as part of the project's long-term evolution.
