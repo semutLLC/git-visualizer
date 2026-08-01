@@ -4,6 +4,34 @@
       "name": "semut-core",
       "type": "repo"
     },
+     {
+      "name": "semut-connect",
+      "type": "repo"
+    },
+    {
+      "name": "semut-orchestrator",
+      "type": "repo"
+    },
+    {
+      "name": "semut-domains",
+      "type": "repo"
+    },
+    {
+      "name": "semut-engineering",
+      "type": "repo"
+    },
+    {
+      "name": "semut-ceo",
+      "type": "repo"
+    },
+    {
+      "name": "semut-tools",
+      "type": "repo"
+    },
+    {
+      "name": "semut-artifacts",
+      "type": "repo"
+    },
     {
       "name": "semut-remote",
       "type": "repo"
