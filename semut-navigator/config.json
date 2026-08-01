@@ -1,46 +1,24 @@
-export const CONFIG = {
-    github: {
-        owner: "semutLLC"
+{
+  "github": {
+    "owner": "semutLLC"
+  },
+
+  "commands": [
+    {
+      "name": "semut-core",
+      "aliases": ["core", "sc"],
+      "type": "repo"
     },
-
-    commands: [
-        {
-            name: "semut-core",
-            aliases: ["core", "sc"],
-            type: "repo"
-        },
-        {
-            name: "semut-remote",
-            aliases: ["remote", "sr"],
-            type: "repo"
-        },
-        {
-            name: "semut-memory",
-            aliases: ["memory", "sm"],
-            type: "repo"
-        },
-        {
-            name: "semut-domains",
-            aliases: ["domains", "sd"],
-            type: "repo"
-        },
-
-        {
-            name: "Trace",
-            aliases: ["trace"],
-            url: "https://trace.semut.ai"
-        },
-
-        {
-            name: "Remote",
-            aliases: ["dashboard"],
-            url: "https://remote.semut.ai"
-        },
-
-        {
-            name: "GitHub",
-            aliases: ["github"],
-            url: "https://github.com/semutLLC"
-        }
-    ]
-};
+    {
+      "name": "semut-remote",
+      "aliases": ["remote", "sr"],
+      "type": "repo"
+    },
+    {
+      "name": "Trace",
+      "aliases": ["trace"],
+      "type": "website",
+      "url": "https://trace.semut.ai"
+    }
+  ]
+}
