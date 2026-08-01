@@ -1,24 +1,12 @@
 {
-  "github": {
-    "owner": "semutLLC"
-  },
-
-  "repos": [
+  "commands": [
     {
       "name": "semut-core",
-      "aliases": ["core","sc"]
+      "type": "repo"
     },
     {
       "name": "semut-remote",
-      "aliases": ["remote","sr"]
-    },
-    {
-      "name": "semut-memory",
-      "aliases": ["memory","sm"]
-    },
-    {
-      "name": "semut-domains",
-      "aliases": ["domains","sd"]
+      "type": "repo"
     }
   ]
 }
