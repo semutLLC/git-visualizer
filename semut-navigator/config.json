@@ -1,24 +1,13 @@
 {
-  "github": {
-    "owner": "semutLLC"
-  },
+    "name": "semut-core",
+    "aliases": ["core"],
+    "type": "repo",
 
-  "commands": [
-    {
-      "name": "semut-core",
-      "aliases": ["core", "sc"],
-      "type": "repo"
-    },
-    {
-      "name": "semut-remote",
-      "aliases": ["remote", "sr"],
-      "type": "repo"
-    },
-    {
-      "name": "Trace",
-      "aliases": ["trace"],
-      "type": "website",
-      "url": "https://trace.semut.ai"
-    }
-  ]
+    "children": [
+        "issues",
+        "pulls",
+        "actions",
+        "wiki",
+        "settings"
+    ]
 }
